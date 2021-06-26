@@ -10,21 +10,29 @@ h2 {
   color: #d97706;
 }
 
+.navi {
+  height: 60px;
+  background-color: #374151;
+}
+
+.navi > h4 {
+  padding-left: 15px;
+  padding-top: 10px;
+  color: #f3f4f6;
+}
+
 .genk {
   padding-top: 100px;
   height: 400px;
 }
 
 .use {
-  height: 300px;
+  height: 400px;
 }
 
-.use > ol {
-  margin-top: 50px;
+.use > div {
+  padding-top: 50px;
   font-size: large;
-}
-.use > ol > li {
-  margin-top: 10px;
 }
 
 .form {
