@@ -12,10 +12,11 @@ h2 {
 
 .navi {
   height: 60px;
-  background-color: #374151;
+  background-color: #4B5563;
+  border-radius: 3px;
 }
 
-.navi > h4 {
+.navi > h3 {
   padding-left: 15px;
   padding-top: 10px;
   color: #f3f4f6;
@@ -51,6 +52,7 @@ h2 {
   height: 150px;
   padding-top: 30px;
   background-color: #374151;
+  border-radius: 3px;
 }
 
 .footer > div > p {
