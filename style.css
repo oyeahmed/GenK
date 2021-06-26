@@ -1,0 +1,19 @@
+.genk {
+    height: 400px;
+}
+
+.use {
+    height: 300px;
+}
+
+.use>ol {
+    margin-top: 50px;
+    font-size: large;
+}
+.use>ol>li{
+    margin-top: 10px;
+}
+
+.about{
+    height: 200px;
+}
