@@ -1,19 +1,50 @@
+body {
+  background-color: #f3f4f6;
+}
+
+p {
+  color: #4b5563;
+}
+
+h2 {
+  color: #d97706;
+}
+
 .genk {
-    height: 400px;
+  padding-top: 100px;
+  height: 400px;
 }
 
 .use {
-    height: 300px;
+  height: 300px;
 }
 
-.use>ol {
-    margin-top: 50px;
-    font-size: large;
+.use > ol {
+  margin-top: 50px;
+  font-size: large;
 }
-.use>ol>li{
-    margin-top: 10px;
+.use > ol > li {
+  margin-top: 10px;
 }
 
-.about{
-    height: 200px;
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.about {
+  height: 300px;
+}
+
+.footer {
+  height: 150px;
+  padding-top: 30px;
+  background-color: #374151;
+}
+
+.footer > div > p {
+  color: #f3f4f6;
 }
